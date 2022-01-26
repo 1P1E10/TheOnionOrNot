@@ -15,6 +15,3 @@ This beta version changed the style of the alert box from default by using https
 - Enter `npm install sweetalert --save` to install sweetalert
 - Put `<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>` into the html file
 - Use `swal()` instead of `alert()`
-# TheOnionOrNot
-# TheOnionOrNot
-# TheOnionOrNot

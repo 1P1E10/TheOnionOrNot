@@ -3,7 +3,9 @@
 **Contributors**
 
 Arsh Siddiqui
+
 Kieran Siek
+
 Zehua Zhang
 
 This beta version changed the style of the alert box from default by using https://sweetalert.js.org/.

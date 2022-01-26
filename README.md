@@ -16,3 +16,4 @@ This beta version changed the style of the alert box from default by using https
 - Put `<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>` into the html file
 - Use `swal()` instead of `alert()`
 # TheOnionOrNot
+# TheOnionOrNot

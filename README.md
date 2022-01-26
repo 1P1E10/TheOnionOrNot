@@ -17,3 +17,4 @@ This beta version changed the style of the alert box from default by using https
 - Use `swal()` instead of `alert()`
 # TheOnionOrNot
 # TheOnionOrNot
+# TheOnionOrNot
